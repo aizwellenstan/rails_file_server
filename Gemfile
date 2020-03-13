@@ -61,7 +61,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'administrate', '~> 0.10.0'
+gem 'administrate', '~> 0.13.0'
 gem 'data-confirm-modal', '~> 1.6.2'
 # gem 'devise', '~> 4.4.3'
 # gem 'devise-bootstrapped', github: 'excid3/devise-bootstrapped', branch: 'bootstrap4'
